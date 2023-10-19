@@ -6,13 +6,13 @@ public class Calculator {
         return sumImpl(a, b);
     }
 
-    private int sumImpl(int a, int b) {
-        return a + b;
+    private int sumImpl(int first, int second) {
+        return first + second;
     }
 
-    public int minus(int a, int b) {
+    public int minus(int first, int second) {
         System.out.println("tia rocks");
-        return a - b;
+        return first - second;
     }
 
 }
