@@ -12,7 +12,7 @@ public class Calculator {
     }
 
     public int minus(int a, int b) {
-        System.out.println("tia rocks versuch 3");
+        System.out.println("gi");
         return a - b;
     }
 
